@@ -1,3 +1,3 @@
-# CRUD
-## Django CRUD app    
-https://crud-project-django-app.herokuapp.com/
+# Blog
+## Django-Girls    
+https://blog-django-girls-project.herokuapp.com/
